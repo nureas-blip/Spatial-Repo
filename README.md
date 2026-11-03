@@ -1,15 +1,10 @@
 # :artificial_satellite: Spatial Module
 
-<!-- EDIT with your badge link -->
-[![Reproducibility Check](https://github.com/espm-157/spatial-python-template/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/spatial-python-template/actions/workflows/main.yml)
+[![Reproducibility Check](https://github.com/nureas-blip/Spatial-Repo/actions/workflows/main.yml/badge.svg)](https://github.com/nureas-blip/Spatial-Repo/actions/workflows/main.yml)
 
 ## Team Members
 
 🦸 Channureas Tan
-
-# :artificial_satellite: Spatial Module
-
-[![Reproducibility Check](https://github.com/nureas-blip/Spatial-Repo/actions/workflows/main.yml/badge.svg)](https://github.com/nureas-blip/Spatial-Repo/actions/workflows/main.yml)
 
 ## Overview
 
